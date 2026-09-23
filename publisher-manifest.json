@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "257a96df5101a19d9c52726b",
+  "owner": "geubjhv",
+  "repo": "page-641833574c052944732cf0f7",
+  "title": "米兔云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "641833574c052944732cf0f7",
+      "a": "米兔云",
+      "b": "机场官网线路发布页",
+      "entity": "米兔云",
+      "brand": "米兔云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "afd4c0c98f331aef49227b70464d6f396125a23b0b3b18651a7f3996b69e82aa",
+      "content": {
+        "primary_entity": "米兔云",
+        "keyword1": "米兔云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "米兔云提供适配主流平台的客户端选择方案，可依据设备系统下载对应客户端并导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求选定套餐，即可开始配置米兔云订阅。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_DESCRIPTION": "，面向需要稳定跨境网络的用户提供多档套餐。基础版每月100GB流量支持3台设备，旗舰版每月300GB支持5台设备并带有IPLC专线游戏加速优化，团队版每月1000GB支持20台设备。按年付可享优惠，旗舰版按年付仅需¥350/年。用户可依据设备数量、月流量与订阅周期选择合适档位。",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出在线设备数量时，先在其他设备退出登录即可继续使用。",
+          "AI_FAQ_ANSWER_2": "基础版与团队版为普通线路节点池，旗舰版配置全节点原生流媒体解锁及IPLC专线游戏加速优化。可按主要用途选择对应套餐。",
+          "AI_FAQ_ANSWER_3": "月付与年付均可选择，年付价格更优惠。例如基础版按年付仅需¥150/年，旗舰版按年付仅需¥350/年，团队版按年付仅需¥850/年。",
+          "AI_FAQ_ANSWER_4": "在客户端内导入米兔云订阅链接即可完成配置，各客户端操作路径略有不同，可参照对应客户端的使用文档进行导入。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供7x24优先工单支持，团队版配备专属客户经理服务，基础版可通过常规工单渠道反馈问题。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "不同套餐在流媒体解锁上有何区别？",
+          "AI_FAQ_QUESTION_3": "月付与年付的价格差异大吗？",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入到客户端？",
+          "AI_FAQ_QUESTION_5": "套餐是否提供客服支持？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备与周期三个角度对比套餐，快速定位适合自己使用场景的档位。",
+          "AI_FEATURES_TITLE": "按需求选套餐",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻量使用，团队版每月1000GB满足多设备高频需求。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TEXT_2": "3台、5台到20台设备同时在线，依据常用设备数量匹配对应套餐。",
+          "AI_FEATURE_TITLE_2": "按设备数量",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付优惠，基础版按年付仅需¥150/年，长期使用更划算。",
+          "AI_FEATURE_TITLE_3": "按订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到导入订阅的配置流程。",
+          "AI_GUIDE_TITLE": "配置指引",
+          "AI_HERO_INTRO": "米兔云提供基础版、旗舰版与团队版三档套餐，覆盖每月100GB到1000GB流量、3台到20台设备的使用需求，并支持月付与年付两种订阅周期。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备与流量需求",
+          "AI_HIGHLIGHT_1": "基础版每月100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版自带IPLC游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备在线",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量、设备数与线路配置上逐级提升，可按使用强度挑选。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照流量、设备数量和线路配置，从基础版、旗舰版、团队版中选定套餐。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_2": "确认常用设备系统是否在客户端支持范围内，并核对同时在线设备数量。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "下载对应客户端后，依照其文档导入米兔云订阅链接并完成配置。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "米兔云套餐随心选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lpjigfp.cn",
+    "host": "lpjigfp.cn"
+  },
+  "file_hashes": {
+    "index.html": "0618cc88e88efbeb46a5ffdb1f4a4d65e54103e28b4d7ddd469201fe2583d7e1",
+    "sitemap.xml": "83921a2882ffea5669124765079030966874a9a64837a102c318e02d728ef15a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "129b1e78f1947bc8e9c2f59536709c139d31fdac20d8b88e79db84400a742253",
+    "robots.txt": "cbcf95105f2748a111bae41f7067e7f44d036269c38e7ddaa074f9c1c0c3392b",
+    "8b9a4095be4544e81d2ef924985e2dbc.txt": "d7bb1df2cc576daf63e543db96992944860b3b17e70d30f74297ff5fe2542757"
+  },
+  "revision": "e4b57513e80d3538045162c8fd90ef34e29dc454d913e912f738b9c33574e980"
+}
